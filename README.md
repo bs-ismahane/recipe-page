@@ -1,2 +1,2 @@
 # recipe-page
-challenge 1 in mentore
+challenge 1 in mentor
